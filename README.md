@@ -26,4 +26,3 @@
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katokinawa&layout=compact)
