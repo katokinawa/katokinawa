@@ -24,7 +24,7 @@
 ## :iphone: Связь
 Если у вас есть вопросы или хотите обсудить проект, не стесняйтесь связываться со мной через Telegram либо почту.
 <div id="badges">
-  <a href="https://t.me/katokinawa">
+  <a href="https://t.me/harikomi">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge" alt="Telegram Badge"/>
   </a>
   <a href="mailto:katokinawa@icloud.com">
