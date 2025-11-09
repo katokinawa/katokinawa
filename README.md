@@ -2,12 +2,6 @@
 
 Я веб-разработчик с фокусом на создании качественных пользовательских интерфейсов. Стремлюсь к постоянному совершенствованию навыков, читаю Роберта Мартина, doka.guide <img src="https://doka.guide/images/icons/icon.svg" width="20" height="20" alt="website logo doka.guide" />, web.dev <img src="https://www.gstatic.com/devrel-devsite/prod/vd2dddc2199cd18ccf014281c77515e1e906f6b98324fd2a8b5fa9e92b09e8018/web/images/touchicon-180.png" width="20" height="20" alt="website logo web.dev" />, изучаю новые технологии и внедряю их в проекты (где это необходимо). Ищу возможность для работы над инновационными продуктами.
 
-## :four_leaf_clover: Цели:
-- Сделать свой личный блог
-- Продолжать изучать технологии и читать книги
-- Смотреть, как развивается команда, в которой я нахожусь
-- Стараться смотреть на мир каждый день иначе
-
 ## :hammer_and_wrench: Основной стек:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
